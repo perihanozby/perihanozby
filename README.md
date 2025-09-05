@@ -39,8 +39,7 @@
 ### Featured Projects
 - **DCOM Server – PC Activity Tracker** — C#, WPF, SQLite. Desktop app that logs active apps, window titles, URLs, file paths and durations; includes keyboard/mouse activity analysis and a watchdog to keep tracking alive.
 - **DenklikApp – Legal Compensation Calculator** — React, Node.js, Express, TailwindCSS. Calculates various compensations (denklik, kıdem/ihbar, mesai vb.) with a modular REST API. *(In progress)*
-- **Web Design Projects – WordPress & Elementor** — Responsive sites for small businesses. Live demo: https://emo.digital/
-
+- **Web Design Projects – WordPress & Elementor** — Responsive sites for small businesses.
 ---
 
 ### GitHub Stats
